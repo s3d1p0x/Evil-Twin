@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #############################
-# Auteur: Quentin Auspitz  #
+# Auteur: s3d1p0x          #
 # Pojet: Evil Twin         #
 # Date: 12/07/2023         # 
 #############################
